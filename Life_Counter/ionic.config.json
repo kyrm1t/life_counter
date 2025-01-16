@@ -1,0 +1,7 @@
+{
+  "name": "Life_Counter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
