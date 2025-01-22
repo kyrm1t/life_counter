@@ -1,12 +1,12 @@
 export const people = [
 
 	{
-		id: 1,
+		id: 0,
 		name: "Alan Montgomery",
 		color: "black",
 	},
 	{
-		id: 2,
+		id: 1,
 		name: "Max Lynch",
 		color: "red",
 	}

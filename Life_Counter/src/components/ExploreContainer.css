@@ -22,3 +22,11 @@
 #container a {
   text-decoration: none;
 }
+
+.mirror {
+
+  transform: scale(1, -1);;
+     /* position: absolute; */
+     /* width: 100px;
+     height: 100px; */
+      }
